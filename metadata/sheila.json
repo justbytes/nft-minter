@@ -1,0 +1,35 @@
+{
+  "name": "Sheila",
+  "description": "A slug confused and looking for friends",
+  "image": "https://ipfs.io/ipfs/QmQwcnUWiLpGtZAHQKtncPNahSECzxxRcPPJc5Gd2EURG3",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "clear pink sunset"
+    },
+    {
+      "trait_type": "Shooting Star",
+      "value": 1
+    },
+    {
+      "trait_type": "Desert Terrain",
+      "value": "rolling sandy hills"
+    },
+    {
+      "trait_type": "Slug Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Slug Eyes",
+      "value": 0
+    },
+    {
+      "trait_type": "Slug Mouth",
+      "value": "Closed with half a frown"
+    }
+  ]
+}

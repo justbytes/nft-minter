@@ -1,0 +1,31 @@
+{
+  "name": "Steve",
+  "description": "A slug wondering the desert in the sunset looking for water",
+  "image": "https://ipfs.io/ipfs/QmVD7t1hcJK2RjqSQhAijLJ8c7UbwiCCKQPw6FZgamotpj",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "pink cloudy sunset with sun setting on horizon of rolling desert hills"
+    },
+    {
+      "trait_type": "Desert Terrain",
+      "value": "rolling sandy hills"
+    },
+    {
+      "trait_type": "Slug Color",
+      "value": "black"
+    },
+    {
+      "trait_type": "Slug Eyes",
+      "value": 0
+    },
+    {
+      "trait_type": "Slug Mouth",
+      "value": "Open with toungue sticking out"
+    }
+  ]
+}
